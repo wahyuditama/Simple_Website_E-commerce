@@ -1,0 +1,8 @@
+This is a Simple View Template E-commerce using Bootstrap 5
+
+This is just a simple online shop website template, created using the Boostrap 5 framework. 
+Some text or items are still in raw form. Please fill in as needed.
+
+
+Thanks You
+(Wahyu_Ramdany)
